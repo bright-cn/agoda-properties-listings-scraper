@@ -1,0 +1,52 @@
+[
+  {
+    "db_source": "1776443774941",
+    "timestamp": "2026-04-17",
+    "url": "https://www.agoda.com/en-gb/chaokoh-phi-phi-hotel-resort/hotel/koh-phi-phi-th.html?ds=dzGygd8GnnlfYqbD",
+    "hotel_id": 1277006,
+    "title": "ChaoKoh Phi Phi Hotel & Resort",
+    "location": "157 Moo 7 , Aonang,, Ton Sai Bay, Ko Phi Phi, Thailand, 81210",
+    "country": "Thailand",
+    "city": "Ko Phi Phi"
+  },
+  {
+    "db_source": "1774345866334",
+    "timestamp": "2026-03-24",
+    "url": "https://www.agoda.com/es-es/solara-resort-9br-aladdin-villa-with-pool-spa-8928/hotel/orlando-fl-us.html?ds=fO4QBRGYYUbLx...",
+    "hotel_id": 51262340,
+    "title": "Family-Friendly Oasis with Resort Amenities",
+    "location": "8928 coconut breeze drive, Four Corners, Orlando (FL), Estados Unidos, 34747",
+    "country": "Estados Unidos",
+    "city": "Orlando (FL)"
+  },
+  {
+    "db_source": "1774345866334",
+    "timestamp": "2026-03-24",
+    "url": "https://www.agoda.com/es-es/a-wave-from-it-all-pool-ocean-front-great-views/hotel/ocean-isle-beach-nc-us.html?ds=VyCrGXJ...",
+    "hotel_id": 51032944,
+    "title": "A Wave from it All Pool, Ocean front, great views",
+    "location": "Ocean Isle Beach, Ocean Isle Beach (Carolina del Norte), Estados Unidos",
+    "country": "Estados Unidos",
+    "city": "Ocean Isle Beach (Carolina del Norte)"
+  },
+  {
+    "db_source": "1774345866334",
+    "timestamp": "2026-03-24",
+    "url": "https://www.agoda.com/adorable-spacious-condo-in-gulf-shores/hotel/gulf-shores-al-us.html?ds=QYBeGYYHhhVOK5IL",
+    "hotel_id": 32347329,
+    "title": "Adorable spacious condo in Gulf Shores",
+    "location": "Little Lagoon, Gulf Shores (AL), United States",
+    "country": "United States",
+    "city": "Gulf Shores (AL)"
+  },
+  {
+    "db_source": "1774345866334",
+    "timestamp": "2026-03-24",
+    "url": "https://www.agoda.com/en-gb/salt-life-bay-getaway-h50973200/hotel/rockport-tx-us.html?ds=B9tqX4Wu7BQmBDgb",
+    "hotel_id": 50973200,
+    "title": "Salt Life Bay Getaway",
+    "location": "Rockport, Rockport (TX), United States",
+    "country": "United States",
+    "city": "Rockport (TX)"
+  }
+]
